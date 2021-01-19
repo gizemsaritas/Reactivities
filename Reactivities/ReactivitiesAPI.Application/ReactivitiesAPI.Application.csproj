@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ReactivitiesAPI.Domain\ReactivitiesAPI.Domain.csproj" />
     <ProjectReference Include="..\ReactivitiesAPI.Persistence\ReactivitiesAPI.Persistence.csproj" />
   </ItemGroup>
