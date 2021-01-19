@@ -1204,11 +1204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Persistence\\ReactivitiesAPI.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Persistence\\ReactivitiesAPI.Persistence.csproj",
       "projectName": "ReactivitiesAPI.Persistence",
-      "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Persistence\\ReactivitiesAPI.Persistence.csproj",
+      "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Persistence\\ReactivitiesAPI.Persistence.csproj",
       "packagesPath": "C:\\Users\\developer04\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1228,8 +1228,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj"
+            "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj"
             }
           }
         }

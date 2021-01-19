@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj",
       "projectName": "ReactivitiesAPI.Domain",
-      "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj",
+      "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj",
       "packagesPath": "C:\\Users\\developer04\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Domain\\obj\\",
+      "outputPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

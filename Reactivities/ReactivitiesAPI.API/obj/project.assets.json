@@ -1204,11 +1204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.API\\ReactivitiesAPI.API.csproj",
+      "projectUniqueName": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.API\\ReactivitiesAPI.API.csproj",
       "projectName": "ReactivitiesAPI.API",
-      "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.API\\ReactivitiesAPI.API.csproj",
+      "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.API\\ReactivitiesAPI.API.csproj",
       "packagesPath": "C:\\Users\\developer04\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.API\\obj\\",
+      "outputPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1228,8 +1228,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj"
+            "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj"
             }
           }
         }

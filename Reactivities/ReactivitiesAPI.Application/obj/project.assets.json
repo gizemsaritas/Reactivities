@@ -1050,11 +1050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj",
+      "projectUniqueName": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj",
       "projectName": "ReactivitiesAPI.Application",
-      "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj",
+      "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj",
       "packagesPath": "C:\\Users\\developer04\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Application\\obj\\",
+      "outputPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1074,11 +1074,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj"
+            "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj"
             },
-            "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Persistence\\ReactivitiesAPI.Persistence.csproj": {
-              "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Persistence\\ReactivitiesAPI.Persistence.csproj"
+            "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Persistence\\ReactivitiesAPI.Persistence.csproj": {
+              "projectPath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Persistence\\ReactivitiesAPI.Persistence.csproj"
             }
           }
         }

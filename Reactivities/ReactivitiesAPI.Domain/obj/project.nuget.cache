@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJJ/p2Bz5Or1ZvMG3rq+Po6s+lWm1w1Fz5G8GYHYI1o3RW+GXEpyBtRasu1CghchB+bh+bnO/ip8vGuqprsC+g==",
+  "dgSpecHash": "dalk1G86nUUELDFzuyy7SeM4vKovmXaqUGcd8yLikHDjDtO7XFDVk9tj82aJD/cU8aT9g56XJEbw64FkI16WDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj",
+  "projectFilePath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Domain\\ReactivitiesAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

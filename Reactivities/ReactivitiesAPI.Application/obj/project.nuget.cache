@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9hcUy+ZWsF035usc8CgjNmkpvGC0gNc+h54HKZdi6KgH558dOuz3DYY93G6MK7rfwfQ9snwL1ttFCljbftu0Sg==",
+  "dgSpecHash": "dSBsquV2pdki+rgOlpMC0X4+jrX6qdjrb50dcvQ9VUagaSLncN8rMdclZHF1TRV66wKjOknODrUrxnKj1S3swA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\ReactivitiesAPI\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj",
+  "projectFilePath": "C:\\Users\\developer04\\Desktop\\Projects\\Reactivities\\Reactivities\\ReactivitiesAPI.Application\\ReactivitiesAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\developer04\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.2\\microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "C:\\Users\\developer04\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
