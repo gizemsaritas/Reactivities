@@ -1,10 +1,23 @@
-import React, { useState } from 'react';
+import React, { Component } from 'react';
 import axios from "axios"
 import { Header, Icon, List } from 'semantic-ui-react';
 import { IActivity } from '../models/activity';
-
-function App() {
-	const [activities, setActivities] = useState<IActivity[]>([])
+interface IState{
+	activities:IActivity[]
+}
+class App extends Component<{},IState> {
+	readonly state:IState={
+		activities:[]
+	}
+	componentDidMount(){
+		axios.get<IActivity[]>("https://localhost:44321/api/activities")
+		.then((response)=>{
+			this.setState({
+				activities:response.data
+			})
+		});
+	}
+	render() {
 		return (
 			<div>
 				<Header as='h2'>
@@ -12,7 +25,7 @@ function App() {
 					<Header.Content>Reactivities</Header.Content>
 				</Header>
 				<List>
-				{activities.map((activity)=>(
+				{this.state.activities.map((activity)=>(
 							<List.Item key={activity.id}>{activity.title}</List.Item>
 						))}
 				</List>
@@ -24,7 +37,6 @@ function App() {
 
 		);
 	}
-
+}
 
 export default App;
-
